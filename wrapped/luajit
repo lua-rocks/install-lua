@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rlwrap /usr/local/bin/_luajit "$@"
