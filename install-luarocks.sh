@@ -2,7 +2,7 @@
 
 # Download link: https://github.com/luarocks/luarocks/wiki/Download
 
-cd luarocks-3.8.0
+cd luarocks-3.9.1
 
 ./configure --force-config --lua-version=5.4
 make

@@ -34,7 +34,7 @@ This instruction is for Ubuntu but it should not be much different for other
 distributions:
 
 ```sh
-sudo apt install build-essential libreadline-dev unzip
+sudo apt install build-essential libreadline-dev unzip libssl-dev
 ```
 
 Optionally (read below):
