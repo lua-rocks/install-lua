@@ -8,6 +8,6 @@ cd luarocks-3.9.1
 make
 sudo make install
 
-./configure --force-config
+./configure --force-config --with-lua-interpreter=luajit
 make
 sudo make install
